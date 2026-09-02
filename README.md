@@ -4,7 +4,7 @@
 A scalable full-stack tourism and travel booking website where users can browse destinations and manage their tour bookings seamlessly.
 
 ## Live Preview
-![Project Screenshot](./screenshot.png)
+![Project Screenshot](./screenshot (2).png)
 
 ## Main Technologies Used
 - Next.js (App Router)
